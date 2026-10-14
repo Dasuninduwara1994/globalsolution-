@@ -13,21 +13,21 @@ type Testimonial = {
 
 const testimonials: Testimonial[] = [
   {
-    name: 'James Whitfield',
+    name: 'Dasun Udugamasooriya',
     role: 'CEO',
     company: 'Maison Lumière',
     avatar: 'https://images.pexels.com/photos/28442318/pexels-photo-28442318.jpeg?auto=compress&cs=tinysrgb&h=200&w=200',
     text: '3D Global Solutions completely reimagined our brand identity. The result was nothing short of transformative — our engagement doubled within three months of launch.',
   },
   {
-    name: 'Sofia Marenco',
+    name: 'Dasun Udugamasooriya',
     role: 'Marketing Director',
     company: 'Aether Studio',
     avatar: 'https://images.pexels.com/photos/5308640/pexels-photo-5308640.jpeg?auto=compress&cs=tinysrgb&h=200&w=200',
     text: 'Working with 3D Global Solutions felt like having an extension of our own team. Their attention to detail and creative vision elevated every touchpoint of our campaign.',
   },
   {
-    name: 'David Chen',
+    name: 'Dasun Udugamasooriya',
     role: 'Founder',
     company: 'Optika',
     avatar: 'https://images.pexels.com/photos/38740728/pexels-photo-38740728.jpeg?auto=compress&cs=tinysrgb&h=200&w=200',
